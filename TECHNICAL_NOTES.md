@@ -79,16 +79,6 @@ Das Skript:
 
 ---
 
-## Was du dem Fitness-Coach zeigen kannst
-
-Die eine Frage die ihn interessiert:
-> "Welches Paket bringt mir die loyalsten Kunden?"
-
-Die Antwort liegt in der Churn Rate pro Paket — Premium-Klienten bleiben länger,
-auch wenn es weniger sind. Das ist eine Entscheidung ob er Rabatte auf Basis
-oder Fokus auf Premium geben soll.
-
----
 
 ## Nächste Schritte nach dem Projekt
 
